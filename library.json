@@ -1,0 +1,11 @@
+{
+    "name": "Azure SDK for C",
+    "license": "MIT",
+    "platforms": "*",
+    "frameworks": "*",
+    "build": {
+        "flags": [
+            "-I src/"
+        ]
+    }
+}
